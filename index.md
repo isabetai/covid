@@ -12,7 +12,7 @@
 </head>
 <body>
 <h3>How case numbers change</h3>
-<p>COVID-19 cases reported by the Department of Public Health have begun shifting over time because of a change in how the agency records cases. Georgia now dates a confirmed case by the day symptoms began or a test was taken. But it can take days or even a week or more for the final test result to be reported. That means the most recent days will show artificially low case numbers until they are updated. Here's how case numbers have shifted for one week.</p>
-<img src="https://raw.githubusercontent.com/isabetai/covid/master/covid-cases-ani.gif" alt="cases by day change" height="331" width="450"> 
+<p>COVID-19 cases reported by the Department of Public Health have begun shifting over time because of a change in how the agency records cases. Georgia now dates a confirmed case by the day symptoms began or a test was taken. But it can take days or even a week or more for the final test result to be reported. That means the most recent days will show artificially low case numbers until they are updated. Here's how case numbers have shifted for one week this month.</p>
+<img src="https://raw.githubusercontent.com/isabetai/covid/master/covid-cases-ani.gif" alt="cases by day change" height="313" width="425"> 
 </body>
 </html>
